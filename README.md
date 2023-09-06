@@ -7,3 +7,4 @@ QA-Engineer
   background: Tinker Resolver 🔨; 
   color: yellow 
 }
+https://img.shields.io/badge/dynamic/json
