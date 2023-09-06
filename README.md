@@ -1,10 +1,14 @@
-# Привет меня зовут Дмитрий!
-QA-Engineer
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
-https://img.shields.io/badge/dynamic/json
+### Привет 👋, я Дмитрий!
+#### QA-Engineer
+![QA-Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
