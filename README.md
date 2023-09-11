@@ -44,7 +44,7 @@
 
 ---
 
---[Ссылка на проект](https://www.notion.so/1-2-49340afb84f34c3da0878c0603abf6e8?pvs=4) 
+--[Ссылка на проект](https://furtive-venom-a7b.notion.site/1-2-49340afb84f34c3da0878c0603abf6e8?pvs=4) 
 
 
 ---
