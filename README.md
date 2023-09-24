@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/?/">
     <img src="https://img.shields.io/badge/Facebook-navy?logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://vk.com/?">
+  <a href="https://vk.com/YachenkoDima/?">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://github.com/">
