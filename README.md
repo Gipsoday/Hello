@@ -13,17 +13,14 @@
 - :zap: Люблю изучать сферу IT  и делиться опытом :fire:
 
 <h2 align="left">:heart: Мои контакты:</h2>
-<a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-<a href="https://www.facebook.com/?/">
-    <img src="https://img.shields.io/badge/Facebook-navy?logo=facebook&logoColor=white" alt="Facebook Badge"/>
+<a href="https://t.me/+79054064131/?">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=wite" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/YachenkoDima/?">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/vk-blue?logo=github&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/github-blue?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Технологии и инструменнты которые я использую:</h2>
