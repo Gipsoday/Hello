@@ -7,20 +7,20 @@
  </abc>
   <h2 align="left">👨🏻‍💻 Обо мне:</h2>
 
-- :computer:  Я учусь он-лайн на курсах SkyPro от Skyeng, но я уже умею проводить ручное и автоматическое тестирование, работать с системами баг-трекинга, автоматизировать тестирование
+- :computer:  Я изучаю основы тестиования в EdTech, но я уже умею проводить ручное и автоматическое тестирование, работать с системами баг-трекинга, автоматизировать тестирование.Так же есть практика на проектах Sky-pro.Яндекс метро.
 - :hourglass_flowing_sand:В свободное время я читаю статьи, чтобы глубже изучить тестирование и набраться больше навыка
 - :rocket: Готов на любые колобарации для рассширения опыта. 
 - :zap: Люблю изучать сферу IT  и делиться опытом :fire:
 
 <h2 align="left">:heart: Мои контакты:</h2>
 <a href="https://t.me/+79054064131/?">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=wite" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-red?logo=telegram&logoColor=wite" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/YachenkoDima/?">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-blue?logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Технологии и инструменнты которые я использую:</h2>
